@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  dodgerblue;
+  background-color:#1E90FF;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -60,7 +60,7 @@ h2 {
   font-size: 50px;
   text-align: center;
   float: left;
-  color: dodgerblue;
+  color:#1E90FF;
   margin: 30px;
   margin-left: 60px;
   margin-top: 40px;
