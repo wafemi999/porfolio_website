@@ -1,7 +1,7 @@
-# porfolio_website
+# Porfolio_website
 Single page Portfolio website using HTML5, Vanilla CSS &amp; Javascript.
 
-# sections:
+# Sections:
 * About Me.
 * Skills.
 * Projects.
